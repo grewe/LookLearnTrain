@@ -1,0 +1,4 @@
+#BodyPartCNN is a CNN to detect the body parts of knee, hip, foot and the person (using 2 classes of BodyTall, BodySquat) for the pupose of testing the concept behand the feature based forced attension LSTM based video activity recognition model. 
+
+
+##This directory represents only the code for training the BodyPartCNN
