@@ -1,4 +1,4 @@
-#Model0_80_100_droprate0.4
+# Model0_80_100_droprate0.4
 The dataset used to train this model consist of 0% background Visualization, 80% person visualization and 100% bodypart Visualization
 Keras Model with dropout rate set to 0.4
 the Network Architecture is Sequential.
