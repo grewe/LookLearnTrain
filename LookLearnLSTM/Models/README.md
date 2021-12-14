@@ -4,7 +4,7 @@
 ## The models are trained on 2 dataset 
   * Data 30/70/100- background 30% person 70% and the body parts 100% visualization
   * Data 0/80/100- background 0% person 80% and the body parts 100% visualization <br><br>
-##Model List
+## Model List
 
 * Model0_80_100_ dropout 0.5 
 * Model0_80_100_ dropout 0.4
