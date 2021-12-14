@@ -1,5 +1,5 @@
-Model30_70_100epoch2000
-The dataset used to train this model consist of 30% bacgorund Visualization, 70% person visualization and 100% bodypart Visualization
+# Model30_70_100epoch2000
+The dataset used to train this model consist of 30% background Visualization, 70% person visualization and 100% bodypart Visualization
 Keras Model with dropout rate set to 0.4
 the Network Architecture is Sequential.
 The optimizer used in this keras model is Adam
