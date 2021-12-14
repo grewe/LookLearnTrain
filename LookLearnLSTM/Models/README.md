@@ -20,3 +20,6 @@
 * Model30_70_100_ dropout 0.5_learnrate0.00001
 * Model30_70_100_ dropout 0.4_epoch2000 - trained on 2000 epochs
 ### Above model are trained with background 30% person 70% and the body parts 100% visualization
+
+Model is currently on drive and accesible
+[model](https://drive.google.com/drive/folders/1isq6apiD2cqS0GLNXRfsPvMoWcgDJW9T?usp=sharing)
