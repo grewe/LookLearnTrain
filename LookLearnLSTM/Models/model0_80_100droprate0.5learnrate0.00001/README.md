@@ -1,5 +1,5 @@
-model0_80_100droprate0.5learnrate0.00001
-The dataset used to train this model consist of 0% bacgorund Visualization, 80% person visualization and 100% bodypart Visualization
+# Model0_80_100droprate0.5learnrate0.00001
+The dataset used to train this model consist of 0% backgorund Visualization, 80% person visualization and 100% bodypart Visualization
 Keras Model with dropout rate set to 0.5
 the Network Architecture is Sequential.
 The optimizer used in this keras model is Adam
