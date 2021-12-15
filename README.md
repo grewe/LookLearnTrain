@@ -2,6 +2,7 @@
 
 
 
+
 ### Look&Learn  examines how a forced-attention technique mimicking a "point and look" concept can be applied to the task of Video Activity Recognition.
 
 
@@ -15,5 +16,6 @@ Youtube Presentation.
 
 
 ![image](https://user-images.githubusercontent.com/11790686/145138556-03744232-84b6-4315-bedd-4027def69b86.png)
+
 
 
