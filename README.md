@@ -9,9 +9,9 @@ See [wiki](https://github.com/grewe/LookLearnTrain/wiki) for more details
 
 Key Results:  Improvement of accuracy +5.21%  ( from 93.75  to 98.96% )
 Youtube Presentation.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IAxGQktG1hI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![image](https://user-images.githubusercontent.com/11790686/146100118-2e66ff6c-7d2e-47dc-b4e6-54ea57a41b21.png)](https://www.youtube.com/embed/IAxGQktG1hI)
+[![image](https://user-images.githubusercontent.com/11790686/146100185-1ece6198-da69-4f32-bfea-83ca1d98bdaa.png)](https://www.youtube.com/embed/IAxGQktG1hI)
+
 
 
 ![image](https://user-images.githubusercontent.com/11790686/145138556-03744232-84b6-4315-bedd-4027def69b86.png)
